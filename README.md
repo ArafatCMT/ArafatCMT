@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://github.com/ArafatCMT/ArafatCMT/blob/main/Gray%20Modern%20Digital%20Marketing%20Linkedln%20Article%20Cover%20Image.png)
+![I am GitHub Readme Generator's creator]([https://github.com/ArafatCMT/ArafatCMT/blob/main/Gray%20Modern%20Digital%20Marketing%20Linkedln%20Article%20Cover%20Image.png](https://github.com/ArafatCMT/ArafatCMT/blob/main/git_cover_banner.png))
 # 💫 About Me:
 🔭 I'm currently working as a backend developer using Django and DRF<br>👯 I’m looking to collaborate on Backend Project<br>🤔 I’m looking for help with Remote or On-Site opportunity<br>🏠 I'm currently living at Dhaka,Bangladesh<br>📫 How to reach me: arafathossainemon455@gmail.com<br>⚡ Fun fact: I am lazy but smart
 

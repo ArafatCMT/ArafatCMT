@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently free to Work<br>🌱 I’m currently learning Django, DRF<br>👯 I’m looking to collaborate on Backend Project<br>🤔 I’m looking for help with Backend Project<br>📫 How to reach me: arafathossainemon455@gmail.com<br>⚡ Fun fact: I am lazy but smart
+🔭 I’m currently free to Work<br>🌱 I’m currently learning Django, DRF<br>👯 I’m looking to collaborate on Backend Project<br>🤔 I’m looking for help with Remote or On-Site opportunity<br>📫 How to reach me: arafathossainemon455@gmail.com<br>⚡ Fun fact: I am lazy but smart
 
 
 ## 🌐 Socials:
